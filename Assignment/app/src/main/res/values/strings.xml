@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="one">One</string>
+    <string name="two">Two</string>
+    <string name="three">Three</string>
+    <string name="four">Four</string>
+    <string name="five">Five</string>
+    <string name="fragment">Fragment</string>
+    <string name="loading">Fetching Data. please wait.</string>
+    <string name="title_activity_scenario_two">ScenarioTwoActivity</string>
+    <string name="current_page">Current Loaded Page =</string>
+    <string name="network_msg">Please Check Your Internet Connection and Try Again</string>
+    <string name="network_title">Network Error</string>
+    <string name="from_central">From Central</string>
+    <string name="by_car">By Car :</string>
+    <string name="by_train">By Train :</string>
+</resources>
